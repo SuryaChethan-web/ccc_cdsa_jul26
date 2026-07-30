@@ -13,4 +13,6 @@ int main()
     printf("Num1=%d, Num2=%d, Num3=%d \n", num1, num2, num3);
     num3 = num1++ + ++num1;
     printf("Num1=%d, Num2=%d, Num3=%d \n", num1, num2, num3);
+    num3 = num1++ - ++num1;
+    printf("Num1=%d, Num2=%d, Num3=%d \n", num1, num2, num3);
 }
