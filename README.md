@@ -1,5 +1,10 @@
 # ccc_cdsa_jul26
 This Repo was created for learning "C" Programming and Problem solving and this is done in July 2026 and I was trained by trainer "Nithin" from CCC Company.
+
+
+
+
+---
 APP INSTALLATIONS:
 vs code development notepad++ quick notes git to run git commands git desktop GUI App for Git mingw python node
 
@@ -103,3 +108,4 @@ int main()
     }
     printf("%d  %d  %d", x, y, z);
 }
+---
